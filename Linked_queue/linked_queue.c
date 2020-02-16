@@ -1,8 +1,6 @@
 #include "linked_queue.h"
 #include <stdlib.h>
 
-// Defino estructuras
-
 typedef struct node{
 	void* data;
 	struct node* next;
