@@ -14,7 +14,7 @@ typedef struct stack stack_t;
 
 
 /* *****************************************************************
- *                    STACK PRIMITIVES
+ *                    STACK OPERATIONS
  * *****************************************************************/
 
 // Creates a new stack.
