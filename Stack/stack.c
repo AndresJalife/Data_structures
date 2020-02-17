@@ -12,7 +12,7 @@ struct stack {
 };
 
 /* *****************************************************************
- *                    STACK PRIMITIVES
+ *                    STACK OPERATIONS
  * *****************************************************************/
 
 bool _stack_resize(stack_t* stack, size_t new_cap){
