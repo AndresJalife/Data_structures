@@ -13,7 +13,7 @@ typedef struct queue queue_t;
 
 
 /* ******************************************************************
- *                QUEUE PRIMITIVES
+ *                QUEUE OPERATIONS
  * *****************************************************************/
 
 // Creates a new queue.
