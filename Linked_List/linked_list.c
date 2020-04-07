@@ -1,10 +1,8 @@
-#include "lista.h"
+#include "list.h"
 #include <stdlib.h>
 #include <stdio.h>
-#include "testing.h"
 
-// Defino estructuras
-
+// Structures def
 typedef struct node{
 	void* data;
 	struct node* next;
